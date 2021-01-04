@@ -47989,32 +47989,6 @@ William Witty tells you, "What's with all the carrots, you ask? Why, I'm luring 
 		<tod_req>0</tod_req>
 	</location>
 	<location>
-		<id>3130</id>
-		<latitude>-69.6</latitude>
-		<longitude>-62.6</longitude>
-		<name>Britana</name>
-		<type>NPC</type>
-		<arrival_latitude>0.000</arrival_latitude>
-		<arrival_longitude>0.000</arrival_longitude>
-		<description>Quest(s): Canescent Mattekar Robe.
-
-In the fall of 2005, Viamontians raided Marae Lassal, capturing some of its townsfolk. Britana is now imprisoned in the Viamontian Torture Chamber at 69.6N 62.6W.
-
-Britana tells you, What? Who's there? Ketnan? Mazur? Please, get me out of here!
-
-Britana tells you, Greetings brave adventurer!  My name is Britana, perhaps you've heard of my...never mind, he isn't important anyway.  What is important is have I got a deal for you!  Perhaps you have heard of a small fashion accessory...The Hoary Mattekar Robe?  Yes, I am sure you have.  Well, unlike some others who seek to perpetuate fraud upon the Isparian public with cheap knockoffs, Britana only provides the real thing.
-
-Britana tells you, I have come to this island upon hearing reports of a great white beast that stalks its northern coasts.  Rumor has it this is a Mattekar straight out of legend, come to rid the island of its troublesome denizens.  Which denizens, you ask?  Legend does not say.
-
-Britana tells you, But what I say is that a Mattekar this large and strong must produce a robe which makes the Hoary robe seem like a bath rug!  Bring me this mattekar pelt, and I will craft you a robe fit for a king!
-
-Within Viamontian Torture Chamber.</description>
-		<date_added>2002-01-14 00:00:00</date_added>
-		<last_update>0000-00-00 00:00:00</last_update>
-		<retired>N</retired>
-		<tod_req>0</tod_req>
-	</location>
-	<location>
 		<id>3131</id>
 		<latitude>-42.9</latitude>
 		<longitude>-66.7</longitude>
@@ -50596,24 +50570,6 @@ Vincadi tells you, "How did you obtain this artifact? Well, no matter. It can be
 		<tod_req>0</tod_req>
 	</location>
 	<location>
-		<id>3259</id>
-		<latitude>-87.4</latitude>
-		<longitude>-70.5</longitude>
-		<name>Enzo Ilario</name>
-		<type>NPC</type>
-		<arrival_latitude>0.000</arrival_latitude>
-		<arrival_longitude>0.000</arrival_longitude>
-		<description>Quest(s): Hunter Quests (Arctic Mattekar).
-
-Enzo Ilario tells you, So, you wish to prove your hunting prowess? Well then. Track down and slay 25 of the terrible Arctic Mattekars for me, and I will reward you appropriately.
-
-Submitted by Morgwyn on Verdantine.</description>
-		<date_added>2005-07-30 00:00:00</date_added>
-		<last_update>0000-00-00 00:00:00</last_update>
-		<retired>N</retired>
-		<tod_req>0</tod_req>
-	</location>
-	<location>
 		<id>3260</id>
 		<latitude>59.7</latitude>
 		<longitude>-88</longitude>
@@ -50657,22 +50613,6 @@ Drozer tells you, "If you bring me five of the orange monster seeds, I will do m
 
 Sara Sen tells you, "If you bring me five of the yellow monster seeds, I will do my best to cultivate one of them for you. Then you can have your very own Pitcher Plant!".</description>
 		<date_added>2005-09-04 00:00:00</date_added>
-		<last_update>0000-00-00 00:00:00</last_update>
-		<retired>N</retired>
-		<tod_req>0</tod_req>
-	</location>
-	<location>
-		<id>3305</id>
-		<latitude>-90.4</latitude>
-		<longitude>-43.1</longitude>
-		<name>Moina</name>
-		<type>NPC</type>
-		<arrival_latitude>0.000</arrival_latitude>
-		<arrival_longitude>0.000</arrival_longitude>
-		<description>Quest(s): Hunter Quests (Grievver Violators).
-
-Moina tells you, So, you wish to prove your hunting prowess? Well then. Track down and slay 100 of the terrible Grievver Violators for me, and I will reward you appropriately.</description>
-		<date_added>2005-09-07 00:00:00</date_added>
 		<last_update>0000-00-00 00:00:00</last_update>
 		<retired>N</retired>
 		<tod_req>0</tod_req>
@@ -62458,24 +62398,6 @@ This tree grows atop the large cataracts overlooking the Chapel on Xi Ru's Islan
 		<type>Landmark</type>
 		<arrival_latitude>0.000</arrival_latitude>
 		<arrival_longitude>0.000</arrival_longitude>
-		<date_added>2004-12-11 00:00:00</date_added>
-		<last_update>0000-00-00 00:00:00</last_update>
-		<retired>N</retired>
-		<tod_req>0</tod_req>
-	</location>
-	<location>
-		<id>4077</id>
-		<latitude>-83.2</latitude>
-		<longitude>-50.5</longitude>
-		<name>Castle Corcima</name>
-		<type>Landmark</type>
-		<arrival_latitude>0.000</arrival_latitude>
-		<arrival_longitude>0.000</arrival_longitude>
-		<description>Quest(s): Zaikhal Defender.
-
-Corcima Castle is located at 83.2N, 50.4W, on top of an insurmountable mountain. It is divided up into several wards, which are restricted to players of different levels.
-
-Only accessible via a Corcima Castle Platinum Ward Portal Gem, which is obtained via the Zaikhal Defender (100+) quest.</description>
 		<date_added>2004-12-11 00:00:00</date_added>
 		<last_update>0000-00-00 00:00:00</last_update>
 		<retired>N</retired>
