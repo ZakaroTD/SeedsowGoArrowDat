@@ -31048,7 +31048,7 @@
 	<location>
 		<id>2042</id>
 		<latitude>-5.5</latitude>
-		<longitude>-87.82</longitude>
+		<longitude>-87.5</longitude>
 		<restrictions>35+</restrictions>
 		<name>Obsidian Rim Portal</name>
 		<type>Portal</type>
@@ -50785,7 +50785,7 @@ There's also a decent sized population of reedsharks, water and mud golems, and 
 		<id>3326</id>
 		<latitude>40.3</latitude>
 		<longitude>11.2</longitude>
-		<name>Fadsahil al-Tashbi</name>
+		<name>Fadsahil al-Tashbi the Master Archmage</name>
 		<type>Vendor</type>
 		<arrival_latitude>0.000</arrival_latitude>
 		<arrival_longitude>0.000</arrival_longitude>
@@ -53547,7 +53547,7 @@ Fadsahil al-Tashbi the Master Archmage tells you, "Another fine component!"
 Fadsahil al-Tashbi the Master Archmage tells you, "May the wind be always at your back, traveler!"</description>
 		<date_added>2005-09-18 00:00:00</date_added>
 		<last_update>0000-00-00 00:00:00</last_update>
-		<retired>N</retired>
+		<retired>Y</retired>
 		<tod_req>0</tod_req>
 	</location>
 	<location>
@@ -62915,6 +62915,78 @@ Scrivener of War tells you, "Good luck in your travels, friend."</description>
 		<arrival_latitude>0.000</arrival_latitude>
 		<arrival_longitude>0.000</arrival_longitude>
 		<description>Mnemosyne Quest</description>
+		<date_added>2021-01-01 00:00:00</date_added>
+		<last_update>0000-00-00 00:00:00</last_update>
+		<retired>N</retired>
+		<tod_req>0</tod_req>
+	</location>
+	<location>
+		<id>4108</id>
+		<latitude>-44.2</latitude>
+		<longitude>-39.4</longitude>
+		<name>Lone Villa</name>
+		<type>Village</type>
+		<arrival_latitude>0.000</arrival_latitude>
+		<arrival_longitude>0.000</arrival_longitude>
+		<description>Purchase Item: Jungle Phyntos Wasp Wing</description>
+		<date_added>2021-02-06 00:00:00</date_added>
+		<last_update>0000-00-00 00:00:00</last_update>
+		<dungeon_id/>
+		<retired>N</retired>
+		<tod_req>0</tod_req>
+	</location>
+	<location>
+		<id>4109</id>
+		<latitude>-60</latitude>
+		<longitude>-23.7</longitude>
+		<name>Verena Cottages</name>
+		<type>Village</type>
+		<arrival_latitude>0.000</arrival_latitude>
+		<arrival_longitude>0.000</arrival_longitude>
+		<description>Purchase Item: Shore Armoredillo Spine</description>
+		<date_added>2021-02-06 00:00:00</date_added>
+		<last_update>0000-00-00 00:00:00</last_update>
+		<dungeon_id/>
+		<retired>N</retired>
+		<tod_req>0</tod_req>
+	</location>
+	<location>
+		<id>4110</id>
+		<latitude>10.6</latitude>
+		<longitude>46.6</longitude>
+		<name>Bleeargh, Mosswart Swamp Lord</name>
+		<type>NPC</type>
+		<arrival_latitude>0.000</arrival_latitude>
+		<arrival_longitude>0.000</arrival_longitude>
+		<description>Quest NPC: Bleeargh's Gratitude</description>
+		<date_added>2021-02-15 00:00:00</date_added>
+		<last_update>0000-00-00 00:00:00</last_update>
+		<retired>N</retired>
+		<tod_req>0</tod_req>
+	</location>
+	<location>
+		<id>4111</id>
+		<latitude>-42.3</latitude>
+		<longitude>-30.8</longitude>
+		<name>Worcer</name>
+		<type>NPC</type>
+		<arrival_latitude>0.000</arrival_latitude>
+		<arrival_longitude>0.000</arrival_longitude>
+		<description>Quest NPC: Worcer's Missing Heirlooms</description>
+		<date_added>2021-01-01 00:00:00</date_added>
+		<last_update>0000-00-00 00:00:00</last_update>
+		<retired>N</retired>
+		<tod_req>0</tod_req>
+	</location>
+	<location>
+		<id>4112</id>
+		<latitude>-39.46</latitude>
+		<longitude>-33.29</longitude>
+		<name>Hardunna</name>
+		<type>NPC</type>
+		<arrival_latitude>0.000</arrival_latitude>
+		<arrival_longitude>0.000</arrival_longitude>
+		<description>Quest NPC: Hardunna's Wedding Band</description>
 		<date_added>2021-01-01 00:00:00</date_added>
 		<last_update>0000-00-00 00:00:00</last_update>
 		<retired>N</retired>
